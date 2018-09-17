@@ -1,9 +1,5 @@
 # Requisitos
 
-
-
 * Gerar uma estrutura de dados para manter o estado de cada uma das casas de um jogo da velha.
 
-
-
-* Cada casa do jogo da velha poderá estar vazia, ocupada pelo 1° jogador ou ocupada pelo 2° jogador.
+* Cada casa do jogo da velha poderÃ¡ estar vazia, ocupada pelo 1Â° jogador ou ocupada pelo 2Â° jogador.
